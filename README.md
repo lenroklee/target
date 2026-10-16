@@ -40,9 +40,3 @@ The project mimics the analytical workflows of the **Directorate General Market 
 ## Installation & Usage
 
 This project uses `uv` for lightning-fast dependency management and environment isolation.
-
-**1. Clone the repository and sync dependencies:**
-```bash
-git clone [https://github.com/lenroklee/ecb-target-analytics.git](https://github.com/lenroklee/ecb-target-analytics.git)
-cd ecb-target-analytics
-uv sync
